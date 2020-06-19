@@ -27,7 +27,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
 
-`.forEach` and `.map` are similar in the fact that both of them return a new array and do not manipulate the original array. One major diffenrence between the two is the statements used to get them to appear. `.forEach` consoles its results while `.map` returns them (and thusly requires the return statement).
+`.forEach` and `.map` do not manipulate the original array. One major diffenrence between the two is the statements used to get them to appear. `.forEach` consoles its results and does not return a new array while `.map` returns the results (and thusly requires the return statement)in a new array.
 
 2. Explain the difference between a callback and a higher order function.
 
